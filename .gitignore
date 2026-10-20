@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter и редактор
+.ipynb_checkpoints/
+.vscode/
+
+# Данные Kaggle (правила соревнования не разрешают раздавать данные)
+data/
+
+# Результаты запусков
+results/
